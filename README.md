@@ -8,7 +8,6 @@ HookRegistry is an open-source platform that unites curated hooks for the Uniswa
 
 - Standardized JSON Schema for HookLists to ensure consistency and interoperability;
 - GitHub-Driven Management for collaborative HookList contributions and reviews;
-- Seamless Integration with IPFS and The Graph for storage, indexing, and querying across supported blockchains;
 
 ## What are HookLists?
 
