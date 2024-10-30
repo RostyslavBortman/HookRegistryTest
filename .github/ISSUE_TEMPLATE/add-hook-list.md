@@ -1,3 +1,13 @@
+---
+name: Add HookList
+about: Add a HookList to hookregistry.com
+title: 'Request: add {HookList name}'
+labels: hooklist-request
+assignees: ''
+
+---
+
+
 Before submission delete this line:
 IMPORTANT: THIS IS NOT A GENERIC HOOK REQUEST FORM. ONLY USE THIS TEMPLATE TO SUBMIT A COMPLETE HOOKLIST FOLLOWING THE SPECIFICATION BELOW. ANY INCOMPLETE OR MISFORMATTED SUBMISSIONS WILL BE CLOSED WITHOUT COMMENT.
 
