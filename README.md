@@ -23,7 +23,7 @@ HookRegistry welcomes contributions of new HookLists! Follow the steps below to 
 
 ### Via our website:
 
-Go to the hookregistry.io and follow the instructions.
+Go to the hookregistry.com and follow the instructions.
 
 ### If you want to create it manually:
  
