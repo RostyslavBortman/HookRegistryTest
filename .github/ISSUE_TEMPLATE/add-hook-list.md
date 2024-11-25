@@ -15,6 +15,8 @@ ALL SUBMISSIONS MUST ADHERE TO THE JSON SCHEMA SPECIFICATION FOR HOOKLISTS.
 
 Please refer to the HookList JSON Schema - https://github.com/RostyslavBortman/HookRegistry/tree/main to ensure your submission meets all requirements.
 
+Here is an example of the issue - issue.xyz
+
 Checklist
  [] I understand that this issue is only for submitting HookLists, not individual hook requests.
  [] I have validated my HookList JSON against the schema.
